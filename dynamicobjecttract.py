@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 
-cv2.ocl.setUseOpenCL(False)#非常重要哦！
 #cap = cv2.VideoCapture("E://PYTHON//Opencv//createVideo//VideoRecoder.avi")
 
 cap = cv2.VideoCapture(0)
